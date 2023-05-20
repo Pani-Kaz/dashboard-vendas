@@ -10,4 +10,4 @@ Uma solução para a tradicional agenda, esse projeto é super simples e fiz ele
 
 ## Veja tambem no github pages
 
-Upei ele no github pages para deixar de exemplo como ele funciona, caso quiser dar uma olhada 
+Upei ele no github pages para deixar de exemplo como ele funciona, caso quiser dar uma olhada https://pani-kaz.github.io/vendas/
